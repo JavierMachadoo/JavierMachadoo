@@ -20,11 +20,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=javiermachadoo&show_icons=true&theme=tokyonight)  
-
----
-
 ## 🤝 Connect with Me
 - 📧 Email: javiermachado245@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/javiermachadoo)  
