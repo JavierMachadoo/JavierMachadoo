@@ -16,7 +16,7 @@
 
 ## 📂 Featured Projects
 🔹 [Marketing Consultory Landing Page](https://github.com/JavierMachadoo/marketing-landing-Alquimia) – Landing page designed to attract clients for a marketing consultancy business.  
-🔹 [Application Design Project (ORT)](https://github.com/JavierMachadoo/app-design-ort) – University project applying TDD, Clean Code, GitFlow, and full-stack development practices.  
+🔹 [Application Design Project (ORT)]((https://github.com/IngSoft-DA1/308200-304806-307097)) – University project applying TDD, Clean Code, GitFlow, and full-stack development practices.  
 
 ---
 
