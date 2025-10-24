@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Javier Machado
+#  Hi, I'm Javier Machado
 
 🎓 I'm a **Computer Science student** from Uruguay, passionate about software development, technology, and problem-solving.  
    I enjoy building projects with **C#, C++, Java, JavaScript, HTML, CSS**, and exploring new tools and frameworks.  
