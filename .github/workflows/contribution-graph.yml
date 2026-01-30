@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      - name: Generate Contribution Snake
+      - name: Generate Pac-Man Contribution Graph
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
