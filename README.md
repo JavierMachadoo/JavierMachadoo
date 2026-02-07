@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 I'm a advanced Systems Engineering student focused on software development, process automation, and building web-based systems for real businesses. Experience developing management and digitalization solutions that replace manual processes with centralized platforms. Strong interest in the practical use of modern AI technologies for data analysis, automation, and decision support.</p>
+<p align="left">🎓 I'm a advanced Systems student focused on software development, process automation, and building web-based systems for real businesses. Experience developing management and digitalization solutions that replace manual processes with centralized platforms. Strong interest in the practical use of modern AI technologies for data analysis, automation, and decision support.</p>
 
 ###
 
