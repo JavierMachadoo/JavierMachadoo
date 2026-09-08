@@ -12,12 +12,6 @@
          height="25"
          alt="LinkedIn" />
   </a>
-
-  <a href="https://wa.me/598094005497" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge"
-         height="25"
-         alt="WhatsApp" />
-  </a>
 </div>
 
 
@@ -42,13 +36,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
 </div>
-
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JavierMachadoo/JavierMachadoo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JavierMachadoo/JavierMachadoo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JavierMachadoo/JavierMachadoo/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
