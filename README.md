@@ -53,10 +53,10 @@ exists, it is linked directly.
 
 | Project | What it does | Stack | Repo |
 | --- | --- | --- | --- |
-| **LagomarPadelClub** — [live app](https://torneos.lagomarpadelclub.uy/) | Tournament management for a padel club. Its core is a grouping algorithm that cross-references every pair's time-slot availability and forms optimal three-pair groups — exhaustive search with pruning for small sets, greedy selection beyond that — then drives the full lifecycle: registration with partner invitations, group standings, seeded knockout bracket, and permanent archiving. | Python 3.13 · Flask 3 · Supabase (PostgreSQL) · Jinja2 · Bootstrap 5 | 🔒 Private · live in production |
-| **Sales-Sparring-AI** | Multi-tenant sales-training simulator. Reps rehearse against four AI buyer personalities — hostile, hesitant, technical, impulsive — in a streaming chat, then receive automatic scored feedback. Includes a per-company dashboard and full conversation history. | React 18 · TypeScript · Vite · Tailwind · Zustand · FastAPI · Google Gemini · Supabase | 🔒 Private |
-| **Taller-LevaTech** | Storefront for a workshop specialised in programmable car ECUs. Customers filter the catalogue by category, brand, price and stock, build a cart, and send the order straight to WhatsApp — no signup, no online payment. | React 19 · TypeScript · Vite · Tailwind · Zustand · React Hook Form · Zod | 🔒 Private |
-| **Alquimia Marketing** — [live site](https://javiermachadoo.github.io/marketing-landing-Alquimia/) | Conversion-oriented landing page for a digital marketing consultancy: services, testimonials, client portfolio, and a floating WhatsApp/email contact. Scroll-reveal animation via the Intersection Observer API, zero runtime dependencies. | HTML5 · CSS3 · Vanilla JS · SVG | 🔒 Private · live on GitHub Pages |
+| **LagomarPadelClub** — [live app](https://torneos.lagomarpadelclub.uy/) | Tournament management for a padel club. Its core is a grouping algorithm that cross-references every pair's time-slot availability and forms optimal three-pair groups — exhaustive search with pruning for small sets, greedy selection beyond that — then drives the full lifecycle: registration with partner invitations, group standings, seeded knockout bracket, and permanent archiving. | Python · Supabase (PostgreSQL) | 🔒 Private · live in production |
+| **Sales-Sparring-AI** | Multi-tenant sales-training simulator. Reps rehearse against four AI buyer personalities — hostile, hesitant, technical, impulsive — in a streaming chat, then receive automatic scored feedback. Includes a per-company dashboard and full conversation history. | React · TypeScript · Google Gemini · Supabase | 🔒 Private |
+| **Taller-LevaTech** | Storefront for a workshop specialised in programmable car ECUs. Customers filter the catalogue by category, brand, price and stock, build a cart, and send the order straight to WhatsApp — no signup, no online payment. | React · TypeScript | 🔒 Private |
+| **Alquimia Marketing** — [live site](https://javiermachadoo.github.io/marketing-landing-Alquimia/) | Conversion-oriented landing page for a digital marketing consultancy: services, testimonials, client portfolio, and a floating WhatsApp/email contact. Scroll-reveal animation via the Intersection Observer API, zero runtime dependencies. | HTML5 · CSS3 · JavaScript | 🔒 Private · live on GitHub Pages |
 
 ### University projects (Universidad ORT Uruguay)
 
@@ -74,7 +74,11 @@ and defended deliverables.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=JavierMachadoo&hide_border=true&background=transparent&ring=0077B5&fire=25D366&currStreakLabel=0077B5" alt="Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=JavierMachadoo&hide_border=true&background=transparent&ring=0077B5&fire=25D366&currStreakLabel=0077B5&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=E6EDF3&dates=8B949E">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=JavierMachadoo&hide_border=true&background=transparent&ring=0077B5&fire=25D366&currStreakLabel=0077B5&currStreakNum=1F2328&sideNums=1F2328&sideLabels=1F2328&dates=656D76">
+  <img src="https://streak-stats.demolab.com/?user=JavierMachadoo&hide_border=true&background=transparent&ring=0077B5&fire=25D366&currStreakLabel=0077B5&currStreakNum=1F2328&sideNums=1F2328&sideLabels=1F2328&dates=656D76" alt="Contribution streak" />
+</picture>
 
 </div>
 
