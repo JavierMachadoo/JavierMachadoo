@@ -20,10 +20,9 @@ businesses actually run on. Most of my work replaces manual, spreadsheet-driven
 processes with centralized web platforms: bookings, tournaments, workshop jobs,
 sales pipelines.
 
-- Building multi-tenant SaaS platforms end to end, from data model to deployment.
 - Automating operational processes that used to live in WhatsApp and spreadsheets.
 - Applying modern AI to data analysis, conversation practice, and decision support.
-- Comfortable across the stack: TypeScript and Python for product, C# and Java from formal training.
+- active and up-to-date use of AI tools
 
 ---
 
