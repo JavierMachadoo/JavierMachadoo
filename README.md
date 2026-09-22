@@ -99,7 +99,7 @@ and defended deliverables.
 
 ## How I work with AI agents
 
-I don't use AI as autocomplete. I run a harness around it: a spec-driven pipeline,
+I use IA with a harness around it: a spec-driven pipeline,
 bounded sub-agents, persistent memory, and adversarial review before anything merges.
 The human leads and the agent executes, and that only works when the contract is
 written down first.
